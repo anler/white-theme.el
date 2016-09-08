@@ -1,0 +1,27 @@
+* white-theme.el
+
+  Minimalistic light color theme for GNU Emacs inspired by beautiful [[https://github.com/fgeller/basic-theme.el][basic-theme]].
+
+** Screenshots
+
+   Scratch buffer:
+
+   [[https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/scratch.jpg][file:https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/scratch.jpg]]
+
+   Emacs Lisp buffer:
+
+   [[https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/emacs-lisp.jpg][file:https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/emacs-lisp.jpg]]
+
+   Haskell buffer:
+
+   [[https:/raw.githubusercontent.com/anler/white-theme.el/master/screenshots/haskell.jpg][file:https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/haskell.jpg]]
+
+   Magit buffers:
+   [[https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/magit.jpg][file:https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/magit.jpg]]
+
+** Details
+   
+   Just as basic-theme says:
+
+   The theme attempts to reduce the usage of colors to a minimum based on my
+   personal preferences. It's not fully monochrome, for example diffs, comments, active regions and keywords are distinguished via colors and contrary to basic-theme this theme assumes font-lock, i.e. =(global-font-lock-mode 1)=.
