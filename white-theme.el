@@ -32,7 +32,7 @@
 
 ;; More information: http://github.com/anler/white-theme.el
 
-;; Theme setup is based on flatui-theme.el available at:
+;; Theme setup is based on basic-theme.el available at:
 ;; https://github.com/fgeller/basic-theme.el
 
 (deftheme white "Minimalistic light color theme inspired by basic-theme.")
