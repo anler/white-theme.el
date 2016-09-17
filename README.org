@@ -4,6 +4,8 @@
 
 ** Screenshots
 
+   Note: The font being used during the screenshots is *Operator Mono*.
+
    Scratch buffer:
 
    [[https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/scratch.jpg][file:https://raw.githubusercontent.com/anler/white-theme.el/master/screenshots/scratch.jpg]]
